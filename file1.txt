@@ -2,7 +2,4 @@
 this is file1
 made changes to it by dev1
 new code by dev1
-
-=======
-this is dev2 code
->>>>>>> dev2
+made changes using the github need to check what kind of updates would be reflected
